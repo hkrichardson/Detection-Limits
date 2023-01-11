@@ -29,8 +29,8 @@ list.files()
 
 cat <- read.csv("CATION_CALIBRATION_10Oct.csv")
 an <- read.csv("ANION_CALIBRATION_10Oct.csv")
-cat.samples<- read.csv('WOLV_Cations_18AUG22.csv')
-an.samples <- read.csv('WOLV_AN_18AUG22.csv')
+cat.samples<- read.csv('WOLV_Cations_22Oct22.csv')
+an.samples <- read.csv('WOLV_AN_22Oct22.csv')
 ```
 
 ### Clean data
